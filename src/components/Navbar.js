@@ -12,7 +12,7 @@ export const Navbar = () => {
           <ul className='flex font-semibold space-x-6 mt-8 cursor-pointer  '>
           <button className='hover:shadow-lg hover:bg-gray-200 py-2 px-10 rounded-3xl '><span>Discover</span></button>
           <button className='hover:shadow-lg hover:bg-gray-200 py-2 px-20 rounded-3xl '><span>Trips</span></button>
-          <button className='hover:shadow-lg hover:bg-gray-200 py-2 px-3 rounded-3xl '><span>Review</span></button>
+          <button className='hover:shadow-lg hover:bg-gray-200 py-2 px-30 rounded-3xl '><span>Review</span></button>
            <button className='hover:shadow-lg hover:bg-gray-200 py-2 px-4 rounded-3xl '><span>More</span></button>
           </ul>
         </div>
